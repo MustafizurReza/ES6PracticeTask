@@ -7,7 +7,7 @@
 
 const firstName = "Donald";
 const lastName = "Trump";
-const fullName = `${firstName} ${lastName} ${100} net worth million`;
+const fullName = `${firstName} ${lastName} ${1000} net worth million`;
 console.log(fullName);
 
 // const firstLine = "I Love You\n";
